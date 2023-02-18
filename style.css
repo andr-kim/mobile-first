@@ -1,5 +1,5 @@
 header {
-	min-height: 100dvh;
+	min-height: 100cvh;
 	display: grid;
 	grid-template-rows: 10rem 1fr 10rem;
 }
