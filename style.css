@@ -1,0 +1,18 @@
+header {
+	min-height: 100vh;
+	display: grid;
+	grid-template-rows: 10rem 1fr 10rem;
+}
+
+.navbar {
+	background-color: azure;
+	min-height: 6rem;
+}
+
+.hero {
+	background-color: beige;
+}
+
+.footer {
+	background-color: blue;
+}
