@@ -3,7 +3,7 @@
 	min-height: -webkit-fill-available;
 	display: flex;
 	flex-direction: column;
-	align-content: stretch
+	align-items: stretch
 }
 
 .navbar {
