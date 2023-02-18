@@ -1,3 +1,8 @@
+.container {
+	min-height: 100vh;
+	height: -webkit-fill-available;
+}
+
 .navbar {
 	background-color: azure;
 	height: 6rem;
