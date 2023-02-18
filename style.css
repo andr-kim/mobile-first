@@ -1,6 +1,6 @@
 .navbar {
 	background-color: azure;
-	min-height: 6rem;
+	height: 6rem;
 }
 
 .hero {
@@ -9,4 +9,5 @@
 
 .footer {
 	background-color: blue;
+	height: 6rem;
 }
