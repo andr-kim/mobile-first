@@ -14,6 +14,7 @@
 	background-color: beige;
 	flex: 1;
 	padding: 2rem 2rem;
+	min-height: 50rem;
 }
 
 .footer {
