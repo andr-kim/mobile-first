@@ -5,6 +5,10 @@
 	flex-direction: column;
 }
 
+div {
+	height: 100%;
+}
+
 .navbar {
 	background-color: azure;
 	flex: 1;
