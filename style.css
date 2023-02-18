@@ -12,6 +12,7 @@
 
 .hero {
 	background-color: beige;
+	flex: 1;
 }
 
 .footer {
